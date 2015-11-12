@@ -1,0 +1,22 @@
+"*":
+  "exception-reporting":
+    userId: "75984f3c-9422-0868-3571-dede86172532"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-dark-ui"
+      "redui-jm-syntax"
+    ]
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    showIndentGuide: true
+  "autocomplete-plus": {}
+  minimap:
+    plugins:
+      "git-diff": true
+      bookmarks: true
+      "highlight-selected": true
+      pigments: true
+      "minimap-autohide": true
